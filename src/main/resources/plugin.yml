@@ -1,0 +1,4 @@
+name: mineStudy
+version: '${version}'
+main: org.minestudy.MineStudy
+api-version: '1.20'
